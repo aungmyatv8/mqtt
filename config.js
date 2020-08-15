@@ -1,2 +1,2 @@
-websocketserver = 'https://xenodochial-clarke-8fc17c.netlify.app/';
-websocketport = 8000;
+websocketserver = 'http://test.mosquitto.org/';
+websocketport = 1883;
